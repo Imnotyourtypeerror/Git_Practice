@@ -1,0 +1,9 @@
+#Another test
+
+def new_value(value1, value2):
+    """Adds value1 and value2 together"""
+    new = value1 + value2
+    return new
+
+new_value(2,4)
+    
